@@ -1,0 +1,16 @@
+{
+  "name": "vue_w2",
+  "version": "1.0.0",
+  "description": "vue第二週作業",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon app.js"
+  },
+  "author": "dollob",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
